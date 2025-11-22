@@ -189,7 +189,7 @@ section {
 .floppy-svg {
   mix-blend-mode: difference;
   fill: white;
-  inline-size: 21px; 
+  inline-size: 21px;
   block-size: 21px;
   z-index: 1;
 } 
